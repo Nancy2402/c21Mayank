@@ -1,1 +1,2 @@
-# c21Mayank
+# collisionAlgorithm
+Algorithm to detect collision between two objects
